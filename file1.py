@@ -1,1 +1,1 @@
-dirprint("file")
+print("file1")
